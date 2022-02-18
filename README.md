@@ -1,7 +1,7 @@
 - 👋 Hi, I’m humengxiao
 - 👀 I’m interested in artificiall intelligence and classical music
 - 🌱 I’m currently learning how to use github
-- 💞️ I’m looking to collaborate on publishing papers, making friends with girls 
+- 💞️ I’m looking to collaborate on publishing papers, making friends with girls, listening stories from anyone
 - 📫 How to reach me ... you can send email to humengxiao6@gmail.com, maybe snapchat or sth. in the future
 
 <!---
